@@ -46,6 +46,6 @@
 </p>
 
 <p align="center">
-  <b>build small interfaces. validate aggressively. measure before optimizing.</b><br />
+  <b>Closed source asks you to trust. Open source lets you verify.</b><br />
   <i>thanks for stopping by. 頑張って.</i>
 </p>
