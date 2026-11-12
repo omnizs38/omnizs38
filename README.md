@@ -3,22 +3,32 @@
 </p>
 
 <p align="center">
-  <i>building small, fast things — quietly, like a good side character.</i>
+  <i>building things that feel simple, work fast, and stay out of the way.</i>
 </p>
 
 ---
 
 ## about
 
-- low-level tooling in **Rust**, **Go** & **C++**
-- lossless compression, binary formats, adaptive algorithms
-- fast CLIs, native desktop apps, small dependency footprints
-- deterministic > clever · validate > trust · measure > guess
+- software development with **Rust**, **Go** & **C++**
+- open-source contributor — working with existing codebases and upstream projects
+- binary formats, compression, algorithms and performance-oriented tooling
+- native desktop applications, lightweight CLIs and minimal dependencies
+- interested in software architecture, developer experience and system design
+
+**principles**
+
+`deterministic > clever` · `validate > trust` · `measure > guess`
+
+## open source
+
+- **Cue** — contributor to an open-source project; 3 pull requests merged into the main branch.
+- **OpenGram** — an experimental Telegram fork focused on a cleaner interface, parallel chats and productivity-oriented features.
 
 ## tools
 
 <p>
-  <img src="./assets/tools.svg" width="390" alt="HTML, CSS, JS, C++, Python and Git" />
+  <img src="./assets/tools.svg" width="390" alt="HTML, CSS, JavaScript, C++, Python and Git" />
 </p>
 
 <details>
@@ -31,7 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnizs38&amp;layout=compact&amp;hide_border=true&amp;bg_color=0b1220&amp;title_color=7dd3fc&amp;text_color=cbd5e1" alt="Most-used languages across public repositories" />
   </p>
 
-  <p align="center"><sub>Cards are provided by a third-party service and may be temporarily unavailable.</sub></p>
+  <p align="center"><sub>Statistics are provided by a third-party service and may be temporarily unavailable.</sub></p>
 </details>
 
 ---
@@ -44,3 +54,4 @@
   <b>Closed source asks you to trust. Open source lets you verify.</b><br />
   <i>thanks for stopping by. 頑張って.</i>
 </p>
+```
