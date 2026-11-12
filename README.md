@@ -15,15 +15,10 @@
 - fast CLIs, native desktop apps, small dependency footprints
 - deterministic > clever · validate > trust · measure > guess
 
-## projects
-
-- [**opengram**](https://github.com/omnizs38/opengram) — a cleaner, open-source take on Telegram Desktop.
-- [**Osiris**](https://github.com/omnizs38/Osiris) — a C++ Counter-Strike 2 game hack for Windows and Linux, using Panorama UI.
-
 ## tools
 
 <p>
-  <img src="./assets/tools.svg" width="390" alt="Rust, Go, C++, Python and Git" />
+  <img src="./assets/tools.svg" width="390" alt="HTML, CSS, JS, C++, Python and Git" />
 </p>
 
 <details>
